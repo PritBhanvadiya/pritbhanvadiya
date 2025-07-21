@@ -3,8 +3,8 @@
 🚀 Self-taught Frontend Developer from India  
 🎨 I craft beautiful, interactive UIs with **React**, **Next.js**, **GSAP**, and **Framer Motion**  
 🧠 Currently expanding into **Full Stack Development** and **Cybersecurity**  
-📬 Reach me: [LinkedIn](#) | [Portfolio](#) | ✉️ pritbhanvadiya3600@gmail.com  
-💼 Open to remote & Bangalore-based job opportunities  
+📬 Reach me: [LinkedIn](https://www.linkedin.com/in/prit-bhanvadiya-6a2567208) | [Portfolio](#) | ✉️ pritbhanvadiya3600@gmail.com  
+💼 Open to remote job opportunities  
 
 ---
 
